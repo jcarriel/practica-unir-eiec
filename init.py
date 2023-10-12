@@ -1,4 +1,4 @@
-frase="Estoy programando"
+frase="I am programming"
 print(frase[0])
 i=6
 print(frase[i])
